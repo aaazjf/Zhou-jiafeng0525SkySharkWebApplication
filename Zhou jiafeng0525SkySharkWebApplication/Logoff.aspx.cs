@@ -11,7 +11,7 @@ namespace Zhou_jiafeng0525SkySharkWebApplication
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            Session.RemoveAll();
         }
     }
 }

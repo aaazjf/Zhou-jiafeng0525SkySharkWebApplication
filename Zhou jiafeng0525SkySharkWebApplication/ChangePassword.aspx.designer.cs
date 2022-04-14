@@ -7,7 +7,7 @@
 // </自动生成>
 //------------------------------------------------------------------------------
 
-namespace Zhou_jiafeng0525SkySharkWebApplication
+namespace JieMengyao1201SkySharkWebWebApplication
 {
 
 
@@ -15,13 +15,13 @@ namespace Zhou_jiafeng0525SkySharkWebApplication
     {
 
         /// <summary>
-        /// form 控件。
+        /// from1 控件。
         /// </summary>
         /// <remarks>
         /// 自动生成的字段。
         /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlForm form;
+        protected global::System.Web.UI.HtmlControls.HtmlForm from1;
 
         /// <summary>
         /// txtUser 控件。
@@ -31,6 +31,15 @@ namespace Zhou_jiafeng0525SkySharkWebApplication
         /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label txtUser;
+
+        /// <summary>
+        /// Label1 控件。
+        /// </summary>
+        /// <remarks>
+        /// 自动生成的字段。
+        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label Label1;
 
         /// <summary>
         /// txtPassword 控件。
@@ -51,22 +60,13 @@ namespace Zhou_jiafeng0525SkySharkWebApplication
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator1;
 
         /// <summary>
-        /// Label3 控件。
+        /// txtConPassword 控件。
         /// </summary>
         /// <remarks>
         /// 自动生成的字段。
         /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label3;
-
-        /// <summary>
-        /// txtConfPassword 控件。
-        /// </summary>
-        /// <remarks>
-        /// 自动生成的字段。
-        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtConfPassword;
+        protected global::System.Web.UI.WebControls.TextBox txtConPassword;
 
         /// <summary>
         /// CompareValidator1 控件。
