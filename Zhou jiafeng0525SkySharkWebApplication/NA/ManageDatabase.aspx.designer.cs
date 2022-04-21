@@ -7,7 +7,7 @@
 // </自动生成>
 //------------------------------------------------------------------------------
 
-namespace Zhoujiafeng0525SkySharkWebApplication.NA
+namespace Zhou_jiafeng0525SkySharkWebApplication.NA
 {
 
 
