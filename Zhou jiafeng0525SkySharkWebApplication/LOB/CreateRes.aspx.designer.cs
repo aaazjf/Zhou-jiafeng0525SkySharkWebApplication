@@ -7,7 +7,7 @@
 // </自动生成>
 //------------------------------------------------------------------------------
 
-namespace JieMengyao1201SkySharkWebWebApplication.LOB
+namespace Zhou_jiafeng0525SkySharkWebApplication.LOB
 {
 
 
