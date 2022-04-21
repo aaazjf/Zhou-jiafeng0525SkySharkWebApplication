@@ -22,6 +22,7 @@
         <div class="tabContents">
             <table>
                 <tr>
+
                     <td colspan="2">
                         <asp:Label ID="Label1" runat="server" Text="Add New Flight"></asp:Label>
                     </td>

@@ -4,6 +4,7 @@
     <style type="text/css">
         .auto-style1 {
             width: 317px;
+
         }
     </style>
 </asp:Content>
