@@ -24,14 +24,11 @@
                 <tr>
                     <td colspan="2">
                         <asp:Label ID="Label1" runat="server" Text="Cancle a new Reservation"></asp:Label></td>
-                  
-                  
                 </tr>
                  <tr>
                     <td></td>
                     <td><asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/ChangePassword.aspx">Change password</asp:HyperLink></td>
                     <td><asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/Logoff.aspx">Logoff</asp:HyperLink></td>
-                  
                 </tr>
                 <tr>
                                  <td>
