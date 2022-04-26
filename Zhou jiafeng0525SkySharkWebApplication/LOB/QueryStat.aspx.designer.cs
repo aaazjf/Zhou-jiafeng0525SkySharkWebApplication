@@ -87,6 +87,15 @@ namespace Zhou_jiafeng0525SkySharkWebApplication.LOB
         protected global::System.Web.UI.WebControls.Label Label2;
 
         /// <summary>
+        /// lblMessage 控件。
+        /// </summary>
+        /// <remarks>
+        /// 自动生成的字段。
+        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblMessage;
+
+        /// <summary>
         /// Label3 控件。
         /// </summary>
         /// <remarks>
@@ -96,13 +105,13 @@ namespace Zhou_jiafeng0525SkySharkWebApplication.LOB
         protected global::System.Web.UI.WebControls.Label Label3;
 
         /// <summary>
-        /// txtFlightNo 控件。
+        /// txtFltNo 控件。
         /// </summary>
         /// <remarks>
         /// 自动生成的字段。
         /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtFlightNo;
+        protected global::System.Web.UI.WebControls.TextBox txtFltNo;
 
         /// <summary>
         /// Label4 控件。
@@ -141,13 +150,13 @@ namespace Zhou_jiafeng0525SkySharkWebApplication.LOB
         protected global::System.Web.UI.WebControls.Calendar calDepDate;
 
         /// <summary>
-        /// btnSubmit 控件。
+        /// btnFStatSubmit 控件。
         /// </summary>
         /// <remarks>
         /// 自动生成的字段。
         /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnSubmit;
+        protected global::System.Web.UI.WebControls.Button btnFStatSubmit;
 
         /// <summary>
         /// WizardStep2 控件。
@@ -168,22 +177,13 @@ namespace Zhou_jiafeng0525SkySharkWebApplication.LOB
         protected global::System.Web.UI.WebControls.Label Label6;
 
         /// <summary>
-        /// HyperLink3 控件。
+        /// lblTicketStatus 控件。
         /// </summary>
         /// <remarks>
         /// 自动生成的字段。
         /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
-        protected global::System.Web.UI.WebControls.HyperLink HyperLink3;
-
-        /// <summary>
-        /// HyperLink4 控件。
-        /// </summary>
-        /// <remarks>
-        /// 自动生成的字段。
-        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.HyperLink HyperLink4;
+        protected global::System.Web.UI.WebControls.Label lblTicketStatus;
 
         /// <summary>
         /// Label7 控件。

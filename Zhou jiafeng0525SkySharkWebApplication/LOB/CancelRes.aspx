@@ -31,6 +31,9 @@
                     <td><asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/Logoff.aspx">Logoff</asp:HyperLink></td>
                 </tr>
                 <tr>
+                    <td colspan="3">
+                          <asp:Label ID="lblMessage" runat="server" ForeColor="Red" Font-Bold="true"></asp:Label>
+                    </td>
                                  <td>
                                      <asp:Label ID="Label2" runat="server" Text="Ticket No"></asp:Label></td>
                                  <td>
@@ -43,7 +46,7 @@
                 <tr>
                                  <td></td>
                                  <td>
-                                     <asp:Button ID="btnCancle" runat="server" Text="Cancle Ticket" /></td>
+                                     <asp:Button ID="btnCancle" runat="server" Text="Cancle Ticket" OnClick="btnCancle_Click" /></td>
                                  <td></td>
                                
                              </tr>
